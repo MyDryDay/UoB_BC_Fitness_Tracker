@@ -1,9 +1,9 @@
 // Including requirements
-const router = require('express').router();
+const router = require('express').Router();
 const homeRoutes = require('./homeRoutes');
-// !!! INCLUDE API ROUTES ONCE THEY'RE FINISHED !!!
+const apiRoutes = require('./api/apiRoutes');
 
 router.use('/', homeRoutes);
-// !!! INCLUDE API ROUTES ONCE THEY'RE FINISHED !!!
+router.use('/api', apiRoutes);
 
 module.exports = router;
