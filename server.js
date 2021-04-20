@@ -6,9 +6,6 @@ const mongoose = require('mongoose');
 
 const PORT = process.env.PORT || 3000;
 
-// !!! UNCOMMENT ONCE USERMODEL.JS IS CREATED !!!
-// const User = require('./userModel.js');
-
 const app = express();
 
 app.use(logger('dev'));
