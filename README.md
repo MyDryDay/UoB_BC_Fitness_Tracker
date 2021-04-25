@@ -13,7 +13,11 @@
   [Questions](#Questions)       | Contact Information For Those That Have Questions
 
   ## Installation
-  To install, do the following: 1. Clone / Download this repository. 2. Using a CLI, navigate to the route of the cloned / downloaded repository. 3. Type the following into the   CLI and press the enter key: 'npm install'. 4. (OPTIONAL) If you would like to seed the local databse with some dummy data type 'npm seeders/seed.js' into the CLI and press     the enter key.
+  To install, do the following: 
+  1. Clone / Download this repository. 
+  2. Using a CLI, navigate to the route of the cloned / downloaded repository. 
+  3. Type the following into the   CLI and press the enter key: 'npm install'. 
+  4. (OPTIONAL) If you would like to seed the local databse with some dummy data type 'npm seeders/seed.js' into the CLI and press the enter key.
 
   ### Usage
   1. Once opened, the user will be presented with the option to create a new workout.
