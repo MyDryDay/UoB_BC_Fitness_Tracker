@@ -1,5 +1,4 @@
 // Include dependencies
-
 // path npm package allows directory paths to be shortened
 const path = require('path');
 const router = require('express').Router();
