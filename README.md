@@ -28,6 +28,10 @@
   4. After filling out the form either select 'Continue Workout' and repeat steps 1 - 3 or select 'Complete'. 
   5. Upon completing a workout if the user selects the 'Dashboard' link in the top left they will be presented with various graphs containing data from their last seven              workouts. 
 
+  ![Screenshot #1](/images/1.png)
+  ![Screenshot #2](/images/2.png)
+  ![Screenshot #3](/images/3.png)
+
   ### License ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)(https://opensource.org/licenses/MIT) 
  
   Project created using the MIT license.
