@@ -2,6 +2,8 @@
 
   # Description
   A simple application that allows a user to create a record of their workouts & see statistics from their last seven workouts.
+  
+  The application can be found by following this link: https://uob-workout-tracker.herokuapp.com/
 
   ## Contents
   Section                       | Description
